@@ -13,7 +13,7 @@ $(document).ready(function () {
 
     {
       name: 'Discord Server',
-      link: 'https://discord.gg/gwcxG38jZG',
+      link: 'https://discord.gg/bpa',
     },
 
     {
