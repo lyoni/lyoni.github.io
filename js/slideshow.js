@@ -8,7 +8,7 @@ $(document).ready(function () {
 
     {
       name: 'Discord Account',
-      link: 'https://discord.com/users/828934474888380436',
+      link: 'https://discord.com/users/820061419294425099',
     },
 
     {
