@@ -15,12 +15,7 @@ $(document).ready(function () {
       name: 'Discord Server',
       link: 'https://discord.gg/bpa',
     },
-
-    {
-      name: 'MC Accs',
-      link: 'https://pastebin.com/PbNiGkfh',
-    },
-
+    
     {
       name: 'Tiktok',
       link: 'https://tiktok.com/@hittemoff',
@@ -28,7 +23,7 @@ $(document).ready(function () {
 
     {
       name: 'Telegram',
-      link: 'https://t.me/esimmer',
+      link: 'https://t.me/zitrene',
     },
 
     {
