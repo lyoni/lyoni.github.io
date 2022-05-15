@@ -2,7 +2,7 @@ $(document).ready(function () {
   var links = [
     {
       name: 'Ogu',
-      link: 'https://ogusers.com/Lyoni',
+      link: 'https://ogu.gg/Lyoni',
     },
 
 
@@ -56,6 +56,6 @@ $(function () {
       $diaplay.show().html('started').delay(2000).fadeOut('fast');
     })
     .marquee({
-      duration: 6000,
+      duration: 12000,
     });
 });
