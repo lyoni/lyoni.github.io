@@ -1,15 +1,5 @@
 $(document).ready(function () {
   var links = [
-    {
-      name: 'Ogu',
-      link: 'https://ogu.gg/Lyoni',
-    },
-
-
-    {
-      name: 'Discord Account',
-      link: 'https://discord.com/users/820061419294425099',
-    },
 
     {
       name: 'Discord Server',
@@ -18,24 +8,14 @@ $(document).ready(function () {
     
     {
       name: 'Tiktok',
-      link: 'https://tiktok.com/@hittemoff',
+      link: 'https://tiktok.com/@luwm',
     },
 
     {
       name: 'Telegram',
       link: 'https://t.me/zitrene',
     },
-
-    {
-      name: 'Instagram',
-      link: 'https://instagram.com/notlyoni',
-    },
-
-    {
-      name: 'Snapchat',
-      link: 'https://www.snapchat.com/add/notlyoni',
-    },
-
+    
   ];
 
   for (var i in links) {
