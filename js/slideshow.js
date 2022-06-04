@@ -33,9 +33,9 @@ $(function () {
   var $diaplay = $('#display');
   $('.marquee')
     .bind('beforeStarting', function () {
-      $diaplay.show().html('started').delay(500).fadeOut('fast');
+      $diaplay.show().html('started').delay(200).fadeOut('fast');
     })
     .marquee({
-      duration: 1875,
+      duration: 3000,
     });
 });
