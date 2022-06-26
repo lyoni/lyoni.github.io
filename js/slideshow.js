@@ -1,23 +1,6 @@
 $(document).ready(function () {
   var links = [
 
-    {
-      name: 'Discord Server',
-      link: 'https://discord.gg/bpa',
-    },
-    
-    {
-      name: 'Tiktok',
-      link: 'https://tiktok.com/@luwm',
-    },
-
-    {
-      name: 'Telegram',
-      link: 'https://t.me/zitrene',
-    },
-    
-  ];
-
   for (var i in links) {
     var link = links[i];
 
